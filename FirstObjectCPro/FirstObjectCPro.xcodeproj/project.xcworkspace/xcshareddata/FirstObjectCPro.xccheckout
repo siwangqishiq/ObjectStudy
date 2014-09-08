@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0AEE1DB-F37B-40D9-BBA7-B22B04BD0431</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FirstObjectCPro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB20AA97-53C3-4AB2-B401-E3F23B75C4CE</key>
+		<string>https://github.com/siwangqishiq/ObjectStudy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FirstObjectCPro/FirstObjectCPro.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB20AA97-53C3-4AB2-B401-E3F23B75C4CE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/siwangqishiq/ObjectStudy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB20AA97-53C3-4AB2-B401-E3F23B75C4CE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB20AA97-53C3-4AB2-B401-E3F23B75C4CE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ObjectStudy</string>
+		</dict>
+	</array>
+</dict>
+</plist>
