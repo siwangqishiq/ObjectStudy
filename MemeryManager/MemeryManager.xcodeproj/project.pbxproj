@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B7072A6019C94AF0009CB575 /* Book.m in Sources */ = {isa = PBXBuildFile; fileRef = B7072A5F19C94AF0009CB575 /* Book.m */; };
+		B7072A6319C94CF5009CB575 /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = B7072A6219C94CF5009CB575 /* Card.m */; };
 		B71877AA19C7077D00D625D0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B71877A919C7077D00D625D0 /* Foundation.framework */; };
 		B71877AD19C7077D00D625D0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B71877AC19C7077D00D625D0 /* main.m */; };
 		B71877B119C7077D00D625D0 /* MemeryManager.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = B71877B019C7077D00D625D0 /* MemeryManager.1 */; };
@@ -27,6 +29,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B7072A5E19C94AF0009CB575 /* Book.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Book.h; sourceTree = "<group>"; };
+		B7072A5F19C94AF0009CB575 /* Book.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Book.m; sourceTree = "<group>"; };
+		B7072A6119C94CF5009CB575 /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		B7072A6219C94CF5009CB575 /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
 		B71877A619C7077D00D625D0 /* MemeryManager */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MemeryManager; sourceTree = BUILT_PRODUCTS_DIR; };
 		B71877A919C7077D00D625D0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B71877AC19C7077D00D625D0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +87,10 @@
 				B71877AE19C7077D00D625D0 /* Supporting Files */,
 				B71877B719C73DD300D625D0 /* Student.h */,
 				B71877B819C73DD300D625D0 /* Student.m */,
+				B7072A5E19C94AF0009CB575 /* Book.h */,
+				B7072A5F19C94AF0009CB575 /* Book.m */,
+				B7072A6119C94CF5009CB575 /* Card.h */,
+				B7072A6219C94CF5009CB575 /* Card.m */,
 			);
 			path = MemeryManager;
 			sourceTree = "<group>";
@@ -145,7 +155,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B71877AD19C7077D00D625D0 /* main.m in Sources */,
+				B7072A6019C94AF0009CB575 /* Book.m in Sources */,
 				B71877B919C73DD300D625D0 /* Student.m in Sources */,
+				B7072A6319C94CF5009CB575 /* Card.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
